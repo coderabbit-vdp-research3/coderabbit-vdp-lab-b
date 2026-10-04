@@ -1,0 +1,9 @@
+reviews:
+  profile: assertive
+  auto_review:
+    enabled: true
+  tools:
+    phpcs:
+      enabled: true
+    phpmd:
+      enabled: true
